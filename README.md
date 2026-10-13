@@ -39,14 +39,14 @@ This repository has a single commit because development was initially done local
 
 ## Screenshots & Gameplay
 
+### Player Selection
+![Multiple players playing Madness together](docs/media/local-coop.png)
+
 ### Gameplay
 ![Madness gameplay showing players competing in a minigame](docs/media/gameplay.gif)
 
 ### Minigame
 ![A Madness minigame in progress](docs/media/minigame.png)
-
-### Local Co-op
-![Multiple players playing Madness together](docs/media/local-coop.png)
 
 ### Results
 ![The end-of-round results screen](docs/media/results.png)
