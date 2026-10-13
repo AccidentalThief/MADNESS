@@ -36,3 +36,17 @@ This repository has a single commit because development was initially done local
 4. Check `ProjectSettings/ProjectVersion.txt` for the Unity Editor version used by the project. Install that version if needed, then open the project.
 5. Open the game's main scene in the Unity Editor.
 6. Press **Play** to run the game locally.
+
+## Screenshots & Gameplay
+
+### Gameplay
+![Madness gameplay showing players competing in a minigame](docs/media/gameplay.gif)
+
+### Minigame
+![A Madness minigame in progress](docs/media/minigame.png)
+
+### Local Co-op
+![Multiple players playing Madness together](docs/media/local-coop.png)
+
+### Results
+![The end-of-round results screen](docs/media/results.png)
